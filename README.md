@@ -56,7 +56,3 @@ python run.py
    - Álgebra: Resuelve ecuaciones
    - Cálculo: Calcula derivadas e integrales
    - Geometría: Grafica funciones
-
-## Licencia
-
-MIT 
